@@ -15,3 +15,7 @@
                                   /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/   
+
+<p>
+  📍 [Los angeles, America] &nbsp;•&nbsp; 🕒 [PST] &nbsp;•&nbsp; 🗣️ [Russian and english]
+</p>
