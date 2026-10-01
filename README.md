@@ -5,7 +5,7 @@
 <p>
   📍 [Los angeles, America] &nbsp;•&nbsp; 🕒 [PST] &nbsp;•&nbsp; 🗣️ [Russian and english]
 </p>
-<img src="https://www.lonelyspeck.com/wp-content/uploads/2016/11/zeiss-batis-18mm-astrophotography-review-milky-way-09227.jpg" alt="Zeiss Batis 18mm f/2.8 Astrophotography Review – Lonely Speck"/>
+
 
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -20,3 +20,4 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/   
 
 
+<img src="https://www.lonelyspeck.com/wp-content/uploads/2016/11/zeiss-batis-18mm-astrophotography-review-milky-way-09227.jpg" alt="Zeiss Batis 18mm f/2.8 Astrophotography Review – Lonely Speck"/>
